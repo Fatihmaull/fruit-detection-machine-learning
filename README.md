@@ -65,4 +65,4 @@ Akurasi tertinggi dicapai oleh **Decision Tree**. Berikut adalah perbandingan vi
 ## Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/muhammadfatihm/uts-ml-citrus.git](https://github.com/muhammadfatihm/uts-ml-citrus.git)
+   git clone [https://github.com/Fatihmaull/fruit-detection-machine-learning.git](https://github.com/Fatihmaull/fruit-detection-machine-learning.git)
