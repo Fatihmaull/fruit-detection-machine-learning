@@ -1,4 +1,4 @@
-# Klasifikasi Kualitas Buah: Perbandingan Algoritma Machine Learning pada Dataset Citrus
+# Klasifikasi Buah Orange and Grapefruit: Perbandingan Algoritma Machine Learning pada Dataset Citrus
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
